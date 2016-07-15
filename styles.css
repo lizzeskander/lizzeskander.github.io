@@ -1,0 +1,64 @@
+
+body{
+margin:0;
+padding:0;
+color:#000;
+background-color: white;
+font-family: 'Amatica SC', cursive;
+}
+
+#sidebar {
+float:right;
+width:250px;
+margin-left: 50px;
+background-color: pink;
+/*font-family: 'Amatica SC', cursive;*/
+font-weight:500;
+height: 1800px;
+
+
+}
+h2{
+	text-decoration: underline;
+}
+
+header{
+	
+	font-weight: 500;
+	color: white; 
+	background-image: url(images/flowers.jpg);
+	line-height: 700%;
+	text-indent: 5%;
+}
+img{
+	border-radius: 50%;
+	float:left;
+}
+
+nav{
+
+	background-color: pink;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+	line-height: 300%;
+	/*font-family: 'Amatica SC', cursive;*/
+	font-weight: 800;
+	
+
+}
+
+#content{
+	float: left;
+	width: 60%;
+	/*font-family: 'Amatica SC', cursive;*/
+	margin-left: 100px;
+	
+}
+
+
+
+	
+}
+
+ 
